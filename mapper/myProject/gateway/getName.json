@@ -1,7 +1,5 @@
 {
-	"data": {
-		"list": 0
-	},
+	"data": "get name",
 	"success": true,
 	"code": 200
 }
