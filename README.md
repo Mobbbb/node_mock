@@ -34,7 +34,6 @@ http://127.0.0.1:3000/myProject/gateway/getName
 ```
 http://127.0.0.1:3000/myProject/gateway/getName?name=Bob
 ```
-```
 
 ```
 http://127.0.0.1:3000/testProject/gateway
